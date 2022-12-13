@@ -2,6 +2,8 @@
 
 Validate TypeScript objects.
 
+Run ```npm run dev``` to run the example.
+
 ## Example
 
 1. Define some validators.
